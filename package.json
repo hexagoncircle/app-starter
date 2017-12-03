@@ -31,5 +31,9 @@
     "path": "^0.12.7",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "uglify-js": "^3.2.0"
   }
 }
